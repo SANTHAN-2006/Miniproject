@@ -1,0 +1,17 @@
+{
+  "name": "aegis-prototype",
+  "version": "3.0.0",
+  "description": "AEGIS - Adaptive Engineering for Generalized Individualized Safety. N-of-1 Precision Medicine Platform.",
+  "private": true,
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve . -l 3000"
+  },
+  "keywords": [
+    "precision-medicine",
+    "diabetes",
+    "clinical-decision-support"
+  ],
+  "author": "AEGIS Research Team",
+  "license": "MIT"
+}
